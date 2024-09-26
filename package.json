@@ -1,0 +1,23 @@
+{
+  "name": "auto_tomarket",
+  "version": "0.0.6",
+  "description": "Tool auto airdrop Tomarket",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "NinhND",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "colors": "^1.4.0",
+    "dayjs": "^1.11.12",
+    "he": "^1.2.0",
+    "https-proxy-agent": "^7.0.5",
+    "ws": "^8.18.0",
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {}
+}
